@@ -13,10 +13,10 @@ Insert gif or link to demo
 
 ## API Reference
 
-#### Get all items
+#### Get all items to visit 
 
 ```http
-  GET:  https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
+    https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 ```
 
 ## Deployment
